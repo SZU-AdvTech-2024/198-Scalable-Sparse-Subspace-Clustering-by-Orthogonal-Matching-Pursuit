@@ -1,0 +1,7 @@
+@inproceedings{REPO198,
+    author = "You, Chong and Robinson, Daniel and Vidal, Ren{\'e}",
+    booktitle = "Proceedings of the IEEE conference on computer vision and pattern recognition",
+    pages = "3918--3927",
+    title = "{Scalable sparse subspace clustering by orthogonal matching pursuit}",
+    year = "2016"
+}
